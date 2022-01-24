@@ -19,7 +19,7 @@ class _AwsQuizViewState extends State<AwsQuizView> {
         appBar: AppBar(
           title: const Text(
             'AWS Quiz',
-            style: TextStyle(fontFamily: 'JuaRegular', fontSize: 30.0),
+            style: TextStyle(fontFamily: 'JuaRegular', fontSize: 20.0),
           ),
           backgroundColor: Colors.blueAccent,
         ),
@@ -55,7 +55,7 @@ class _AwsQuizViewState extends State<AwsQuizView> {
               child: Text(
                 quiz.question,
                 style:
-                    const TextStyle(fontSize: 30.0, fontFamily: 'JuaRegular'),
+                    const TextStyle(fontSize: 20.0, fontFamily: 'JuaRegular'),
               ),
             ),
             Column(
@@ -90,7 +90,7 @@ class _AwsQuizViewState extends State<AwsQuizView> {
             child: Text(
               candidates[index],
               style: const TextStyle(
-                  fontFamily: 'JuaRegular', color: Colors.white, fontSize: 20.0),
+                  fontFamily: 'JuaRegular', color: Colors.white, fontSize: 15.0),
             ),
           ),
           style: ButtonStyle(
