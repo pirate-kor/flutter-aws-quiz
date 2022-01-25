@@ -67,6 +67,7 @@ class _AwsQuizViewState extends State<AwsQuizView> {
     );
   }
 
+
   List<Widget> _buildCandidates(List<String> candidates, List<int> answers) {
 //    List<Widget> _children = [];
     List<Color> _candidatesStatus = [];
