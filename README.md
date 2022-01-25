@@ -21,10 +21,10 @@ SAA-02 자격증 공부하면서 만들었던거라, 문제는 그것 밖에 없
 # 실행화면 
 
 ## 메인화면 
-![Main](https://github.com/pirate-kor/flutter-aws-dump/blob/main/sample/main.png)
+![Main](https://github.com/pirate-kor/flutter-aws-quiz/blob/main/sample/main.png)
 
 ## 문제풀이 화면 - 정답인 경우,
-![Correct](https://github.com/pirate-kor/flutter-aws-dump/blob/main/sample/correct.png)
+![Correct](https://github.com/pirate-kor/flutter-aws-quiz/blob/main/sample/correct.png)
 
 ## 문제풀이 화면 - 정답이 아닌 경우, 
-![Wrong](https://github.com/pirate-kor/flutter-aws-dump/blob/main/sample/wrong.png)
+![Wrong](https://github.com/pirate-kor/flutter-aws-quiz/blob/main/sample/wrong.png)
